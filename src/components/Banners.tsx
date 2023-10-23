@@ -17,7 +17,7 @@ export const Banners: FC = () => {
           <Link fontWeight={700} href={DATA_COLLECTION_ROUND_URL}>
             Data Collection Grants
           </Link>{' '}
-          round . See the details and apply.
+          round. See the details and apply.
         </Box>
       </Banner>
     );
